@@ -1,0 +1,6 @@
+{
+  "name": "ToolNest",
+  "description": "A elegant and modern all-in-one utility toolbox containing high-quality daily tools like QR Code Generator, Password Generator, Notes, Countdown Timer, Link Shortener, Currency Converter, and Unit Converter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
